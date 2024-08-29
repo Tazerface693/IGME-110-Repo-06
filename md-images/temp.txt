@@ -5,4 +5,4 @@
 
 [RIT](https://www.rit.edu)
 
-![an image](https://i1.sndcdn.com/artworks-D1z0mq71bQhEyABg-cL8hUA-t500x500.jpg)
+![an image](md-images/cassie.jpg)
